@@ -1,1 +1,9 @@
-First text fileFirst text fileFirst text fileFirst text fileFirst text fileFirst text fileFirst text fileFirst text fileFirst text fileFirst text fileFirst text fileFirst text fileFirst text fileFirst text fileFirst text fileFirst text fileFirst text file
+basic it commands : http://www.codebind.com/linux-tutorials/basic-git-commands-list/
+
+git config --global user.name "anandkumarbapatla"
+git config --global user.email anandkumar1702@gmail.com
+git commit -m "Comment" filename
+git clone url
+git add filename
+git status
+git push -u origin master
